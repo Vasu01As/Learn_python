@@ -25,7 +25,8 @@ else:
 # ["C","","","","","",""]rm
 #new source  code 
 # dk
-
-
+#translucent
+#psudopodia
+#tsunami
 
 
