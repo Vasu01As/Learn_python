@@ -22,11 +22,5 @@ else:
     print("not plain drome")"""
 
 # Wap to count the number of student with the "A" Grade in the following tuple
-# ["C","","","","","",""]rm
-#new source  code 
-# dk
-#translucent
-#psudopodia
-#tsunami
-
-
+# Wap to a program in phython to print hello world
+print("hehllo jana kaise ho suna hai ajj kal khud pr  kaamm karna suru kiyye ho kaise chal rha hai" )
